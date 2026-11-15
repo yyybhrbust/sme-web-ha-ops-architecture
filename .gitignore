@@ -1,0 +1,7 @@
+﻿# 系统垃圾
+Thumbs.db
+.DS_Store
+*.tmp
+*~
+# Office 锁文件
+~$*
